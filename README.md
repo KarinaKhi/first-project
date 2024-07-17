@@ -1,2 +1,2 @@
 # first-project
-для учебы
+first pr in develope for study
