@@ -1,0 +1,2 @@
+# first-project
+для учебы
